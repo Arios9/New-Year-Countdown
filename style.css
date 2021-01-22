@@ -1,0 +1,21 @@
+table ,h1{	
+	display: flex;
+	justify-content: center;
+	align-items: center;
+}
+
+h1{
+	color : blue;
+}
+
+table *{
+	text-align: center;
+	width: 800px;
+}
+th{
+		font-size: 30px;
+}
+td{
+		font-size: 100px;
+		color : red;
+}
