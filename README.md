@@ -1,1 +1,1 @@
-# New-Year-Countdown 2022
+# New-Year-Countdown
